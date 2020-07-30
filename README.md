@@ -1,6 +1,5 @@
 # YelpCamp
 
-
 > A Node.js web application project from the Udemy course - [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/)
 
 ## Live Demo
@@ -11,9 +10,7 @@ To see the app in action, go to [https://infinite-everglades-67172.herokuapp.com
 
 * Authentication:
   
-  * User login with username and password
-
-  * Admin sign-up with admin code
+  * User login and sign-up with username and password
 
 * Authorization:
 
@@ -28,8 +25,6 @@ To see the app in action, go to [https://infinite-everglades-67172.herokuapp.com
   * Create, edit and delete posts and comments
 
   * Upload campground photos
-
-  * Display campground location on Google Maps
   
   * Search existing campgrounds
 
@@ -47,9 +42,6 @@ To see the app in action, go to [https://infinite-everglades-67172.herokuapp.com
 
 * Update personal information on profile page
 
-* Improve image load time on the landing page using Cloudinary
-
-* Use Helmet to strengthen security
  
 ## Getting Started
 
@@ -58,7 +50,7 @@ To see the app in action, go to [https://infinite-everglades-67172.herokuapp.com
 ### Clone or download this repository
 
 ```sh
-git clone https://github.com/lucasweng/yelp-camp.git
+git clone https://github.com/itsVicki-yuqi/YelpCamp.git
 ```
 
 ### Install dependencies
@@ -90,24 +82,15 @@ Some comments in the source code are course notes and therefore might not seem n
 * [express](https://expressjs.com/)
 * [mongoDB](https://www.mongodb.com/)
 * [mongoose](http://mongoosejs.com/)
-* [async](http://caolan.github.io/async/)
-* [crypto](https://nodejs.org/api/crypto.html#crypto_crypto)
-* [helmet](https://helmetjs.github.io/)
 * [passport](http://www.passportjs.org/)
 * [passport-local](https://github.com/jaredhanson/passport-local#passport-local)
 * [express-session](https://github.com/expressjs/session#express-session)
 * [method-override](https://github.com/expressjs/method-override#method-override)
-* [nodemailer](https://nodemailer.com/about/)
-* [moment](https://momentjs.com/)
-* [cloudinary](https://cloudinary.com/)
-* [geocoder](https://github.com/wyattdanger/geocoder#geocoder)
 * [connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
 
 ### Platforms
 
-* [Cloudinary](https://cloudinary.com/)
+* [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 * [Heroku](https://www.heroku.com/)
-* [Cloud9](https://aws.amazon.com/cloud9/?origin=c9io)
-## License
+* [Goorm IDE](https://ide.goorm.io/)
 
-#### [MIT](./LICENSE)
