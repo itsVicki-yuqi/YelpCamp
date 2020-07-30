@@ -1,13 +1,11 @@
 # YelpCamp
 
-[![Known Vulnerabilities](https://snyk.io/test/github/lucasweng/yelp-camp/badge.svg)](https://snyk.io/test/github/lucasweng/yelp-camp)
-[![NSP Status](https://nodesecurity.io/orgs/webdevprojects/projects/e3247e54-2256-44ff-9c8a-e4e087bd49fa/badge)](https://nodesecurity.io/orgs/webdevprojects/projects/e3247e54-2256-44ff-9c8a-e4e087bd49fa)
 
 > A Node.js web application project from the Udemy course - [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/)
 
 ## Live Demo
 
-To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://yelpcamp--demo.herokuapp.com/)
+To see the app in action, go to [https://infinite-everglades-67172.herokuapp.com/](https://infinite-everglades-67172.herokuapp.com/)
 
 ## Features
 
@@ -36,8 +34,6 @@ To see the app in action, go to [https://yelpcamp--demo.herokuapp.com/](https://
   * Search existing campgrounds
 
 * Manage user account with basic functionalities:
-
-  * ~~Password reset via email confirmation~~ (disabled)
 
   * Profile page setup with sign-up
 
